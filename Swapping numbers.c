@@ -10,5 +10,5 @@ scanf("%d",&b);
 printf("Before Swapping a=%d and b=%d",a,b);
 printf("After Swapping a=%d and b=%d",b,a);
 
-return(0)
+return(0);
 }
